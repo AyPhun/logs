@@ -1,0 +1,4502 @@
+2014-05-07 21:41:17 [INFO] Starting minecraft server version 1.5.2
+2014-05-07 21:41:17 [INFO] Loading properties
+2014-05-07 21:41:17 [INFO] Default game type: SURVIVAL
+2014-05-07 21:41:17 [INFO] Generating keypair
+2014-05-07 21:41:17 [INFO] Starting Minecraft server on 91.236.254.75:25845
+2014-05-07 21:41:17 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (No such file or directory)
+2014-05-07 21:41:17 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (No such file or directory)
+2014-05-07 21:41:17 [INFO] Preparing level "world"
+2014-05-07 21:41:17 [INFO] Preparing start region for level 0
+2014-05-07 21:41:18 [INFO] Preparing spawn area: 15%
+2014-05-07 21:41:19 [INFO] Preparing spawn area: 37%
+2014-05-07 21:41:20 [INFO] Preparing spawn area: 63%
+2014-05-07 21:41:21 [INFO] Preparing spawn area: 90%
+2014-05-07 21:41:22 [INFO] Done (4.598s)! For help, type "help" or "?"
+2014-05-07 21:41:56 [INFO] There are 0/80 players online:
+2014-05-07 21:41:56 [INFO] 
+2014-05-07 21:42:30 [INFO] There are 0/80 players online:
+2014-05-07 21:42:30 [INFO] 
+2014-05-07 21:43:04 [INFO] There are 0/80 players online:
+2014-05-07 21:43:04 [INFO] 
+2014-05-07 21:43:38 [INFO] There are 0/80 players online:
+2014-05-07 21:43:38 [INFO] 
+2014-05-07 21:44:12 [INFO] There are 0/80 players online:
+2014-05-07 21:44:12 [INFO] 
+2014-05-07 21:44:46 [INFO] There are 0/80 players online:
+2014-05-07 21:44:46 [INFO] 
+2014-05-07 21:45:20 [INFO] There are 0/80 players online:
+2014-05-07 21:45:20 [INFO] 
+2014-05-07 21:45:54 [INFO] There are 0/80 players online:
+2014-05-07 21:45:54 [INFO] 
+2014-05-07 21:46:28 [INFO] There are 0/80 players online:
+2014-05-07 21:46:28 [INFO] 
+2014-05-07 21:47:02 [INFO] There are 0/80 players online:
+2014-05-07 21:47:02 [INFO] 
+2014-05-07 21:47:36 [INFO] There are 0/80 players online:
+2014-05-07 21:47:36 [INFO] 
+2014-05-07 21:48:10 [INFO] There are 0/80 players online:
+2014-05-07 21:48:10 [INFO] 
+2014-05-07 21:48:44 [INFO] There are 0/80 players online:
+2014-05-07 21:48:44 [INFO] 
+2014-05-07 21:49:18 [INFO] There are 0/80 players online:
+2014-05-07 21:49:18 [INFO] 
+2014-05-07 21:49:52 [INFO] There are 0/80 players online:
+2014-05-07 21:49:52 [INFO] 
+2014-05-07 21:50:26 [INFO] There are 0/80 players online:
+2014-05-07 21:50:26 [INFO] 
+2014-05-07 21:51:00 [INFO] There are 0/80 players online:
+2014-05-07 21:51:00 [INFO] 
+2014-05-07 21:51:34 [INFO] There are 0/80 players online:
+2014-05-07 21:51:34 [INFO] 
+2014-05-07 21:52:08 [INFO] There are 0/80 players online:
+2014-05-07 21:52:08 [INFO] 
+2014-05-07 21:52:42 [INFO] There are 0/80 players online:
+2014-05-07 21:52:42 [INFO] 
+2014-05-07 21:53:16 [INFO] There are 0/80 players online:
+2014-05-07 21:53:16 [INFO] 
+2014-05-07 21:53:50 [INFO] There are 0/80 players online:
+2014-05-07 21:53:50 [INFO] 
+2014-05-07 21:54:24 [INFO] There are 0/80 players online:
+2014-05-07 21:54:24 [INFO] 
+2014-05-07 21:54:58 [INFO] There are 0/80 players online:
+2014-05-07 21:54:58 [INFO] 
+2014-05-07 21:55:32 [INFO] There are 0/80 players online:
+2014-05-07 21:55:32 [INFO] 
+2014-05-07 21:56:06 [INFO] There are 0/80 players online:
+2014-05-07 21:56:06 [INFO] 
+2014-05-07 21:56:40 [INFO] There are 0/80 players online:
+2014-05-07 21:56:40 [INFO] 
+2014-05-07 21:57:14 [INFO] There are 0/80 players online:
+2014-05-07 21:57:14 [INFO] 
+2014-05-07 21:57:48 [INFO] There are 0/80 players online:
+2014-05-07 21:57:48 [INFO] 
+2014-05-07 21:57:53 [INFO] Saving...
+2014-05-07 21:57:53 [INFO] Saved the world
+2014-05-07 21:57:53 [INFO] Stopping the server
+2014-05-07 21:57:53 [INFO] Stopping server
+2014-05-07 21:57:53 [INFO] Saving players
+2014-05-07 21:57:53 [INFO] Saving worlds
+2014-05-07 21:57:53 [INFO] Saving chunks for level 'world'/Overworld
+2014-05-07 21:57:53 [INFO] Saving chunks for level 'world'/Nether
+2014-05-07 21:57:53 [INFO] Closing listening thread
+2014-05-07 21:57:53 [INFO] Saving chunks for level 'world'/The End
+2014-05-07 21:57:54 [INFO] Starting minecraft server version 1.6.4
+2014-05-07 21:57:54 [INFO] Loading properties
+2014-05-07 21:57:54 [INFO] Default game type: SURVIVAL
+2014-05-07 21:57:54 [INFO] Generating keypair
+2014-05-07 21:57:54 [INFO] Starting Minecraft server on 91.236.254.75:25845
+2014-05-07 21:57:55 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R2.0-b2918jnks (MC: 1.6.4) (Implementing API version 1.6.4-R2.0)
+2014-05-07 21:57:55 [INFO] Preparing level "world"
+2014-05-07 21:57:55 [INFO] ---- Migration of old nether folder required ----
+2014-05-07 21:57:55 [INFO] Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your nether folder to a new location in order to operate correctly.
+2014-05-07 21:57:55 [INFO] We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+2014-05-07 21:57:55 [INFO] Attempting to move world/DIM-1 to world_nether/DIM-1...
+2014-05-07 21:57:55 [INFO] Success! To restore nether in the future, simply move world_nether/DIM-1 to world/DIM-1
+2014-05-07 21:57:55 [INFO] ---- Migration of old nether folder complete ----
+2014-05-07 21:57:55 [INFO] ---- Migration of old the_end folder required ----
+2014-05-07 21:57:55 [INFO] Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your the_end folder to a new location in order to operate correctly.
+2014-05-07 21:57:55 [INFO] We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+2014-05-07 21:57:55 [INFO] Attempting to move world/DIM1 to world_the_end/DIM1...
+2014-05-07 21:57:55 [INFO] Success! To restore the_end in the future, simply move world_the_end/DIM1 to world/DIM1
+2014-05-07 21:57:55 [INFO] ---- Migration of old the_end folder complete ----
+2014-05-07 21:57:55 [INFO] Preparing start region for level 0 (Seed: -5471189168215638167)
+2014-05-07 21:57:56 [INFO] Preparing start region for level 1 (Seed: -5471189168215638167)
+2014-05-07 21:57:57 [INFO] Preparing spawn area: 14%
+2014-05-07 21:57:58 [INFO] Preparing spawn area: 34%
+2014-05-07 21:57:59 [INFO] Preparing spawn area: 54%
+2014-05-07 21:58:00 [INFO] Preparing spawn area: 74%
+2014-05-07 21:58:01 [INFO] Preparing spawn area: 99%
+2014-05-07 21:58:01 [INFO] Preparing start region for level 2 (Seed: -5471189168215638167)
+2014-05-07 21:58:02 [INFO] Preparing spawn area: 72%
+2014-05-07 21:58:02 [INFO] Done (7.443s)! For help, type "help" or "?"
+2014-05-07 21:58:15 [INFO] /77.194.131.167:58336 lost connection
+2014-05-07 21:58:36 [INFO] There are 0/80 players online:
+
+2014-05-07 21:59:05 [INFO] /77.194.131.167:58366 lost connection
+2014-05-07 21:59:10 [INFO] There are 0/80 players online:
+
+2014-05-07 21:59:14 [INFO] /77.194.131.167:58386 lost connection
+2014-05-07 21:59:27 [INFO] Disconnecting /85.69.78.192:55204: Took too long to log in
+2014-05-07 21:59:29 [INFO] Connection reset
+2014-05-07 21:59:44 [INFO] There are 0/80 players online:
+
+2014-05-07 22:00:18 [INFO] There are 0/80 players online:
+
+2014-05-07 22:00:52 [INFO] There are 0/80 players online:
+
+2014-05-07 22:01:26 [INFO] There are 0/80 players online:
+
+2014-05-07 22:02:00 [INFO] There are 0/80 players online:
+
+2014-05-07 22:02:06 [INFO] /77.194.131.167:58563 lost connection
+2014-05-07 22:02:34 [INFO] There are 0/80 players online:
+
+2014-05-07 22:03:08 [INFO] There are 0/80 players online:
+
+2014-05-07 22:03:42 [INFO] There are 0/80 players online:
+
+2014-05-07 22:04:16 [INFO] There are 0/80 players online:
+
+2014-05-07 22:04:50 [INFO] There are 0/80 players online:
+
+2014-05-07 22:05:24 [INFO] There are 0/80 players online:
+
+2014-05-07 22:05:58 [INFO] There are 0/80 players online:
+
+2014-05-07 22:06:32 [INFO] There are 0/80 players online:
+
+2014-05-07 22:07:06 [INFO] There are 0/80 players online:
+
+2014-05-07 22:07:40 [INFO] There are 0/80 players online:
+
+2014-05-07 22:08:14 [INFO] There are 0/80 players online:
+
+2014-05-07 22:08:48 [INFO] There are 0/80 players online:
+
+2014-05-07 22:09:22 [INFO] There are 0/80 players online:
+
+2014-05-07 22:09:56 [INFO] There are 0/80 players online:
+
+2014-05-07 22:10:30 [INFO] There are 0/80 players online:
+
+2014-05-07 22:11:04 [INFO] There are 0/80 players online:
+
+2014-05-07 22:11:38 [INFO] There are 0/80 players online:
+
+2014-05-07 22:12:12 [INFO] There are 0/80 players online:
+
+2014-05-07 22:12:46 [INFO] There are 0/80 players online:
+
+2014-05-07 22:13:20 [INFO] There are 0/80 players online:
+
+2014-05-07 22:13:54 [INFO] There are 0/80 players online:
+
+2014-05-07 22:14:28 [INFO] There are 0/80 players online:
+
+2014-05-07 22:15:02 [INFO] There are 0/80 players online:
+
+2014-05-07 22:15:36 [INFO] There are 0/80 players online:
+
+2014-05-07 22:16:10 [INFO] There are 0/80 players online:
+
+2014-05-07 22:16:44 [INFO] There are 0/80 players online:
+
+2014-05-07 22:17:18 [INFO] There are 0/80 players online:
+
+2014-05-07 22:17:52 [INFO] There are 0/80 players online:
+
+2014-05-07 22:18:26 [INFO] There are 0/80 players online:
+
+2014-05-07 22:18:30 [INFO] CONSOLE: Forcing save..
+2014-05-07 22:18:30 [INFO] CONSOLE: Save complete.
+2014-05-07 22:18:30 [INFO] CONSOLE: Stopping the server..
+2014-05-07 22:18:30 [INFO] Stopping server
+2014-05-07 22:18:30 [INFO] Saving players
+2014-05-07 22:18:30 [INFO] Saving worlds
+2014-05-07 22:18:30 [WARNING] DSCT: Socket closed
+2014-05-07 22:18:30 [INFO] Closing listening thread
+2014-05-07 22:18:30 [INFO] Saving chunks for level 'world'/Overworld
+2014-05-07 22:18:30 [INFO] Saving chunks for level 'world_nether'/Nether
+2014-05-07 22:18:30 [INFO] Saving chunks for level 'world_the_end'/The End
+2014-05-07 22:18:30 [INFO] Stopping server
+2014-08-09 20:52:30 [INFO] Starting minecraft server version 1.6.4
+2014-08-09 20:52:30 [INFO] Loading properties
+2014-08-09 20:52:30 [INFO] Default game type: CREATIVE
+2014-08-09 20:52:30 [INFO] Generating keypair
+2014-08-09 20:52:30 [INFO] Starting Minecraft server on 91.236.254.75:25845
+2014-08-09 20:52:30 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R2.0-b2918jnks (MC: 1.6.4) (Implementing API version 1.6.4-R2.0)
+2014-08-09 20:52:31 [INFO] Preparing level "hub"
+2014-08-09 20:52:31 [INFO] Preparing start region for level 0 (Seed: -5032577977843402752)
+2014-08-09 20:52:31 [INFO] Preparing start region for level 1 (Seed: -5032577977843402752)
+2014-08-09 20:52:31 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-08-09 20:52:31 [INFO] Done (0.728s)! For help, type "help" or "?"
+2014-08-09 20:52:38 [INFO] Disconnecting /176.189.236.129:51321: Protocol error
+2014-08-09 20:52:38 [INFO] /176.189.236.129:51321 lost connection
+2014-08-09 20:52:56 [INFO] Disconnecting /176.189.236.129:51354: Protocol error
+2014-08-09 20:52:56 [INFO] /176.189.236.129:51354 lost connection
+2014-08-09 20:53:09 [INFO] There are 0/80 players online:
+[m
+2014-08-09 20:53:46 [INFO] There are 0/80 players online:
+[m
+2014-08-09 20:53:58 [INFO] AyPhun[/176.189.236.129:51505] logged in with entity id 33 at ([hub] 21.833786304548063, 87.74357275654057, 11.580348815703907)
+2014-08-09 20:54:03 [INFO] Connection reset
+2014-08-09 20:54:03 [INFO] AyPhun lost connection: disconnect.quitting
+2014-08-09 20:54:03 [INFO] ?eAyPhun left the game.
+2014-08-09 20:54:24 [INFO] There are 0/80 players online:
+[m
+2014-08-09 20:55:01 [INFO] There are 0/80 players online:
+[m
+2014-08-09 20:55:14 [INFO] CONSOLE: Forcing save..[m
+2014-08-09 20:55:14 [INFO] CONSOLE: Save complete.[m
+2014-08-09 20:55:14 [INFO] CONSOLE: Stopping the server..[m
+2014-08-09 20:55:14 [INFO] Stopping server
+2014-08-09 20:55:14 [INFO] Saving players
+2014-08-09 20:55:14 [WARNING] DSCT: Socket closed
+2014-08-09 20:55:14 [INFO] Saving worlds
+2014-08-09 20:55:14 [INFO] Closing listening thread
+2014-08-09 20:55:14 [INFO] Saving chunks for level 'hub'/Overworld
+2014-08-09 20:55:14 [INFO] Saving chunks for level 'hub_the_end'/The End
+2014-08-09 20:57:14 [INFO] Starting minecraft server version 1.6.4
+2014-08-09 20:57:14 [INFO] Loading properties
+2014-08-09 20:57:14 [INFO] Default game type: CREATIVE
+2014-08-09 20:57:14 [INFO] Generating keypair
+2014-08-09 20:57:15 [INFO] Starting Minecraft server on 91.236.254.75:25845
+2014-08-09 20:57:15 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R2.0-b2918jnks (MC: 1.6.4) (Implementing API version 1.6.4-R2.0)
+2014-08-09 20:57:15 [INFO] Preparing level "hub"
+2014-08-09 20:57:15 [INFO] Preparing start region for level 0 (Seed: -5032577977843402752)
+2014-08-09 20:57:15 [INFO] Preparing start region for level 1 (Seed: -5032577977843402752)
+2014-08-09 20:57:15 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-08-09 20:57:15 [INFO] Done (0.684s)! For help, type "help" or "?"
+2014-08-09 20:57:27 [INFO] AyPhun[/176.189.236.129:51971] logged in with entity id 33 at ([hub] 21.833786304548063, 87.74357275654057, 11.580348815703907)
+2014-08-09 20:57:30 [INFO] AyPhun issued server command: /plugins
+2014-08-09 20:57:41 [INFO] AyPhun lost connection: disconnect.endOfStream
+2014-08-09 20:57:41 [INFO] ?eAyPhun left the game.
+2014-08-09 20:57:53 [INFO] There are 0/80 players online:
+[m
+2014-08-09 20:58:30 [INFO] There are 0/80 players online:
+[m
+2014-08-09 20:58:59 [INFO] Disconnecting /24.122.4.207:54716: Protocol error
+2014-08-09 20:58:59 [INFO] /24.122.4.207:54716 lost connection
+2014-08-09 20:59:08 [INFO] There are 0/80 players online:
+[m
+2014-08-09 20:59:45 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:00:23 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:01:00 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:01:38 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:02:15 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:02:53 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:03:30 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:04:08 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:04:45 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:05:23 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:06:00 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:06:38 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:07:15 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:07:53 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:08:30 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:09:08 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:09:45 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:10:23 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:11:00 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:11:38 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:12:15 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:12:53 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:13:30 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:14:08 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:14:45 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:15:23 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:16:00 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:16:38 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:17:15 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:17:53 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:18:30 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:19:08 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:19:45 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:20:23 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:21:00 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:21:38 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:22:15 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:22:53 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:23:30 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:24:08 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:24:45 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:25:23 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:26:00 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:26:38 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:27:15 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:27:53 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:28:30 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:29:08 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:29:45 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:30:23 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:31:00 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:31:38 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:32:15 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:32:53 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:33:30 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:34:08 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:34:45 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:35:23 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:36:00 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:36:38 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:37:15 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:37:53 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:38:30 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:39:08 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:39:45 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:40:23 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:41:00 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:41:38 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:42:15 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:42:53 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:43:30 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:44:08 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:44:45 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:45:23 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:46:00 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:46:38 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:47:15 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:47:53 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:48:30 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:49:08 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:49:45 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:50:23 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:50:28 [INFO] Disconnecting /24.122.4.207:55606: Protocol error
+2014-08-09 21:50:28 [INFO] /24.122.4.207:55606 lost connection
+2014-08-09 21:51:00 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:51:38 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:52:15 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:52:53 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:53:30 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:54:08 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:54:45 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:55:23 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:56:00 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:56:38 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:57:15 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:57:52 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:58:30 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:59:07 [INFO] There are 0/80 players online:
+[m
+2014-08-09 21:59:45 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:00:22 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:01:00 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:01:37 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:02:15 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:02:52 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:03:30 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:04:07 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:04:45 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:05:22 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:06:00 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:06:37 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:07:15 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:07:52 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:08:30 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:09:07 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:09:45 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:10:22 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:11:00 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:11:37 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:12:15 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:12:52 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:13:30 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:14:07 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:14:45 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:15:22 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:16:00 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:16:37 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:17:15 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:17:52 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:18:30 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:19:07 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:19:45 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:20:22 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:21:00 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:21:37 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:22:15 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:22:52 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:23:30 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:24:07 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:24:45 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:25:22 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:26:00 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:26:37 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:27:15 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:27:52 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:28:30 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:29:07 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:29:45 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:30:22 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:31:00 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:31:37 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:32:15 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:32:52 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:33:30 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:34:07 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:34:45 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:35:22 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:36:00 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:36:37 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:37:15 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:37:52 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:38:30 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:39:07 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:39:45 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:40:22 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:41:00 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:41:37 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:42:15 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:42:52 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:43:30 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:44:07 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:44:45 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:45:22 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:46:00 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:46:37 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:47:15 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:47:52 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:48:30 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:49:07 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:49:45 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:50:22 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:51:00 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:51:37 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:52:15 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:52:52 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:53:30 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:54:07 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:54:45 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:55:22 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:56:00 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:56:37 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:57:14 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:57:52 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:58:29 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:59:07 [INFO] There are 0/80 players online:
+[m
+2014-08-09 22:59:44 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:00:22 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:00:59 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:01:37 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:02:14 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:02:52 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:03:29 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:04:07 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:04:44 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:05:22 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:05:59 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:06:37 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:07:14 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:07:52 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:08:29 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:09:07 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:09:44 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:10:22 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:10:59 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:11:37 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:12:14 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:12:52 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:13:29 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:14:07 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:14:44 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:15:22 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:15:59 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:16:37 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:17:14 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:17:52 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:18:29 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:19:07 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:19:44 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:20:22 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:20:59 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:21:37 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:22:14 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:22:52 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:23:29 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:24:07 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:24:44 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:25:22 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:25:59 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:26:37 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:27:14 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:27:52 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:28:29 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:29:07 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:29:44 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:30:22 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:30:59 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:31:37 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:32:14 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:32:52 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:33:29 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:34:07 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:34:44 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:35:22 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:35:59 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:36:37 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:37:14 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:37:52 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:38:29 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:39:07 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:39:41 [INFO] Disconnecting /24.122.4.207:55816: Protocol error
+2014-08-09 23:39:41 [INFO] /24.122.4.207:55816 lost connection
+2014-08-09 23:39:44 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:40:22 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:40:59 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:41:37 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:42:14 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:42:52 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:43:29 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:44:07 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:44:44 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:45:22 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:45:59 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:46:37 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:47:14 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:47:52 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:48:29 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:49:07 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:49:44 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:50:22 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:50:59 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:51:37 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:52:14 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:52:52 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:53:29 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:54:07 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:54:44 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:55:22 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:55:59 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:56:37 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:57:14 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:57:51 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:58:29 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:59:06 [INFO] There are 0/80 players online:
+[m
+2014-08-09 23:59:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:00:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:00:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:01:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:02:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:02:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:03:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:04:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:04:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:05:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:05:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:06:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:07:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:07:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:08:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:09:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:09:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:10:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:10:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:11:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:12:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:12:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:13:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:14:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:14:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:15:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:15:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:16:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:17:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:17:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:18:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:19:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:19:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:20:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:20:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:21:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:22:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:22:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:23:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:24:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:24:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:25:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:25:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:26:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:27:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:27:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:28:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:29:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:29:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:30:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:30:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:31:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:32:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:32:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:33:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:34:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:34:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:35:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:35:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:36:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:37:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:37:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:38:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:39:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:39:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:40:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:40:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:41:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:42:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:42:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:43:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:44:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:44:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:45:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:45:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:46:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:47:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:47:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:48:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:49:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:49:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:50:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:50:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:51:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:52:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:52:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:53:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:54:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:54:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:55:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:55:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:56:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:57:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:57:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:58:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:59:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 00:59:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:00:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:00:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:01:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:02:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:02:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:03:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:04:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:04:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:05:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:05:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:06:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:07:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:07:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:08:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:09:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:09:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:10:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:10:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:11:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:12:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:12:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:13:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:14:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:14:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:15:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:15:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:16:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:17:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:17:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:18:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:19:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:19:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:20:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:20:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:21:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:22:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:22:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:23:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:24:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:24:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:25:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:25:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:26:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:27:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:27:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:28:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:29:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:29:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:30:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:30:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:31:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:32:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:32:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:33:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:34:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:34:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:35:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:35:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:36:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:37:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:37:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:38:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:39:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:39:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:40:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:40:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:41:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:42:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:42:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:43:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:44:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:44:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:45:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:45:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:46:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:47:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:47:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:48:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:49:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:49:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:50:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:50:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:51:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:52:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:52:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:53:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:54:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:54:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:55:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:55:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:56:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:57:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:57:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:58:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:59:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 01:59:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:00:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:00:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:01:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:02:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:02:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:03:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:04:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:04:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:05:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:05:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:06:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:07:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:07:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:08:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:09:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:09:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:10:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:10:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:11:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:12:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:12:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:13:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:14:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:14:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:15:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:15:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:16:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:17:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:17:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:18:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:19:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:19:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:20:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:20:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:21:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:22:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:22:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:23:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:24:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:24:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:25:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:25:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:26:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:27:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:27:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:28:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:29:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:29:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:30:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:30:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:31:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:32:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:32:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:33:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:34:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:34:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:35:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:35:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:36:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:37:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:37:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:38:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:39:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:39:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:40:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:40:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:41:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:42:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:42:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:43:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:44:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:44:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:45:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:45:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:46:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:47:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:47:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:48:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:49:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:49:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:50:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:50:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:51:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:52:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:52:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:53:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:54:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:54:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:55:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:55:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:56:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:57:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:57:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:58:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:59:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 02:59:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:00:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:00:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:01:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:02:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:02:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:03:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:04:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:04:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:05:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:05:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:06:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:07:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:07:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:08:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:09:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:09:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:10:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:10:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:11:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:12:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:12:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:13:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:14:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:14:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:15:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:15:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:16:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:17:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:17:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:18:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:19:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:19:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:20:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:20:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:21:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:22:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:22:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:23:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:24:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:24:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:25:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:25:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:26:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:27:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:27:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:28:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:29:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:29:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:30:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:30:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:31:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:32:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:32:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:33:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:34:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:34:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:35:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:35:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:36:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:37:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:37:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:38:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:39:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:39:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:40:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:40:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:41:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:42:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:42:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:43:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:44:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:44:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:45:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:45:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:46:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:47:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:47:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:48:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:49:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:49:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:50:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:50:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:51:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:52:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:52:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:53:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:54:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:54:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:55:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:55:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:56:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:57:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:57:49 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:58:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:59:04 [INFO] There are 0/80 players online:
+[m
+2014-08-10 03:59:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:00:19 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:00:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:01:34 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:02:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:02:49 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:03:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:04:04 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:04:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:05:19 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:05:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:06:34 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:07:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:07:49 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:08:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:09:04 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:09:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:10:19 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:10:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:11:34 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:12:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:12:49 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:13:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:14:04 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:14:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:15:19 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:15:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:16:34 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:17:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:17:49 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:18:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:19:04 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:19:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:20:19 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:20:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:21:34 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:22:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:22:49 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:23:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:24:04 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:24:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:25:19 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:25:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:26:34 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:27:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:27:49 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:28:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:29:04 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:29:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:30:19 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:30:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:31:34 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:32:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:32:49 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:33:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:34:04 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:34:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:35:19 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:35:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:36:34 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:37:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:37:49 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:38:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:39:04 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:39:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:40:19 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:40:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:41:34 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:42:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:42:49 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:43:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:44:04 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:44:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:45:19 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:45:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:46:34 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:47:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:47:49 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:48:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:49:04 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:49:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:50:19 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:50:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:51:34 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:52:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:52:49 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:53:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:54:04 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:54:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:55:19 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:55:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:56:34 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:57:11 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:57:49 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:58:26 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:59:04 [INFO] There are 0/80 players online:
+[m
+2014-08-10 04:59:41 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:00:19 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:00:56 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:01:34 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:02:11 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:02:49 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:03:26 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:04:04 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:04:41 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:05:19 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:05:56 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:06:34 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:07:11 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:07:49 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:08:26 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:09:04 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:09:41 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:10:19 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:10:56 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:11:34 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:12:11 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:12:49 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:13:26 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:14:04 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:14:41 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:15:19 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:15:56 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:16:34 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:17:11 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:17:49 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:18:26 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:19:04 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:19:41 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:20:19 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:20:56 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:21:34 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:22:11 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:22:49 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:23:26 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:24:04 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:24:41 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:25:19 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:25:56 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:26:34 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:27:11 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:27:49 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:28:26 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:29:04 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:29:41 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:30:19 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:30:56 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:31:34 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:32:11 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:32:49 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:33:26 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:34:04 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:34:41 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:35:19 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:35:56 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:36:34 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:37:11 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:37:49 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:38:26 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:39:04 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:39:41 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:40:19 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:40:56 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:41:34 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:42:11 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:42:49 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:43:26 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:44:04 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:44:41 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:45:19 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:45:56 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:46:34 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:47:11 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:47:49 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:48:26 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:49:04 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:49:41 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:50:19 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:50:56 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:51:34 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:52:11 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:52:49 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:53:26 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:54:04 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:54:41 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:55:19 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:55:56 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:56:34 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:57:11 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:57:48 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:58:26 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:59:03 [INFO] There are 0/80 players online:
+[m
+2014-08-10 05:59:41 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:00:18 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:00:56 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:01:33 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:02:11 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:02:48 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:03:26 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:04:03 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:04:41 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:05:18 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:05:56 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:06:33 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:07:11 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:07:48 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:08:26 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:09:03 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:09:41 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:10:18 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:10:56 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:11:33 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:12:11 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:12:48 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:13:26 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:14:03 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:14:41 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:15:18 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:15:56 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:16:33 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:17:11 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:17:48 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:18:26 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:19:03 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:19:41 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:20:18 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:20:56 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:21:33 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:22:11 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:22:48 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:23:26 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:24:03 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:24:41 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:25:18 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:25:56 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:26:33 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:27:11 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:27:48 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:28:26 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:29:03 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:29:41 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:30:18 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:30:56 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:31:33 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:32:11 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:32:48 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:33:26 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:34:03 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:34:41 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:35:18 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:35:56 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:36:33 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:37:11 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:37:48 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:38:26 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:39:03 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:39:41 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:40:18 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:40:56 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:41:33 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:42:11 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:42:48 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:43:26 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:44:03 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:44:41 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:45:18 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:45:56 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:46:33 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:47:11 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:47:48 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:48:26 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:49:03 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:49:41 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:50:18 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:50:56 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:51:33 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:52:11 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:52:48 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:53:26 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:54:03 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:54:41 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:55:18 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:55:56 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:56:33 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:57:11 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:57:48 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:58:25 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:59:03 [INFO] There are 0/80 players online:
+[m
+2014-08-10 06:59:40 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:00:18 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:00:55 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:01:33 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:02:10 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:02:48 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:03:25 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:04:03 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:04:40 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:05:18 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:05:55 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:06:33 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:07:10 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:07:48 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:08:25 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:09:03 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:09:40 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:10:18 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:10:55 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:11:33 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:12:10 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:12:48 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:13:25 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:14:03 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:14:40 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:15:18 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:15:55 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:16:33 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:17:10 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:17:48 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:18:25 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:19:03 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:19:40 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:20:18 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:20:55 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:21:33 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:22:10 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:22:48 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:23:25 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:24:03 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:24:40 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:25:18 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:25:55 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:26:33 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:27:10 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:27:48 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:28:25 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:29:03 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:29:40 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:30:18 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:30:55 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:31:33 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:32:10 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:32:48 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:33:25 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:34:03 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:34:40 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:35:18 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:35:55 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:36:33 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:37:10 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:37:48 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:38:25 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:39:03 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:39:40 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:40:18 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:40:55 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:41:33 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:42:10 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:42:48 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:43:25 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:44:03 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:44:40 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:45:18 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:45:55 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:46:33 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:47:10 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:47:48 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:48:25 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:49:03 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:49:40 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:50:18 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:50:55 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:51:33 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:52:10 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:52:48 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:53:25 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:54:03 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:54:40 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:55:18 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:55:55 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:56:33 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:57:10 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:57:48 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:58:25 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:59:02 [INFO] There are 0/80 players online:
+[m
+2014-08-10 07:59:40 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:00:17 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:00:55 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:01:32 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:02:10 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:02:47 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:03:25 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:04:02 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:04:40 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:05:17 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:05:55 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:06:32 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:07:10 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:07:47 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:08:25 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:09:02 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:09:40 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:10:17 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:10:55 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:11:32 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:12:10 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:12:47 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:13:25 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:14:02 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:14:40 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:15:17 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:15:55 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:16:32 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:17:10 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:17:47 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:18:25 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:19:02 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:19:40 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:20:17 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:20:55 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:21:32 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:22:10 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:22:47 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:23:25 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:24:02 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:24:40 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:25:17 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:25:55 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:26:32 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:27:10 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:27:47 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:28:25 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:29:02 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:29:40 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:30:17 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:30:55 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:31:32 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:32:10 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:32:47 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:33:25 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:34:02 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:34:40 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:35:17 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:35:55 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:36:32 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:37:10 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:37:47 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:38:25 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:39:02 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:39:40 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:40:17 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:40:55 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:41:32 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:42:10 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:42:47 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:43:25 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:44:02 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:44:40 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:45:17 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:45:55 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:46:32 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:47:10 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:47:47 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:48:25 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:49:02 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:49:40 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:50:17 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:50:55 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:51:32 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:52:10 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:52:47 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:53:25 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:54:02 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:54:40 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:55:17 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:55:55 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:56:32 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:57:10 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:57:47 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:58:25 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:59:02 [INFO] There are 0/80 players online:
+[m
+2014-08-10 08:59:39 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:00:17 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:00:54 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:01:32 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:02:09 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:02:47 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:03:24 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:04:02 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:04:39 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:05:17 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:05:54 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:06:32 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:07:09 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:07:47 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:08:24 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:09:02 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:09:39 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:10:17 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:10:54 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:11:32 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:12:09 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:12:47 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:13:24 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:14:02 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:14:39 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:15:17 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:15:54 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:16:32 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:17:09 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:17:47 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:18:24 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:19:02 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:19:39 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:20:17 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:20:54 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:21:32 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:22:09 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:22:47 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:23:24 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:24:02 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:24:39 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:25:17 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:25:54 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:26:32 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:27:09 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:27:47 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:28:24 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:29:02 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:29:39 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:30:17 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:30:54 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:31:32 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:32:09 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:32:47 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:33:24 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:34:02 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:34:39 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:35:17 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:35:54 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:36:32 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:37:09 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:37:47 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:38:24 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:39:02 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:39:39 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:40:17 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:40:54 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:41:32 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:42:09 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:42:47 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:43:24 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:44:02 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:44:39 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:45:17 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:45:54 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:46:32 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:47:09 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:47:47 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:48:24 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:49:02 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:49:39 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:50:17 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:50:54 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:51:32 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:52:09 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:52:47 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:53:24 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:54:02 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:54:39 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:55:17 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:55:54 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:56:32 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:57:09 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:57:47 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:58:24 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:59:02 [INFO] There are 0/80 players online:
+[m
+2014-08-10 09:59:39 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:00:16 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:00:54 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:01:31 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:02:09 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:02:46 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:03:24 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:04:01 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:04:39 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:05:16 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:05:54 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:06:31 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:07:09 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:07:46 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:08:24 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:09:01 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:09:39 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:10:16 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:10:54 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:11:31 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:12:09 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:12:46 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:13:24 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:14:01 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:14:39 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:15:16 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:15:54 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:16:31 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:17:09 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:17:46 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:18:24 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:19:01 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:19:39 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:20:16 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:20:54 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:21:31 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:22:09 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:22:46 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:23:24 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:24:01 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:24:39 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:25:16 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:25:54 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:26:31 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:27:09 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:27:46 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:28:24 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:29:01 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:29:39 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:30:16 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:30:54 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:31:31 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:32:09 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:32:46 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:33:24 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:34:01 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:34:39 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:35:16 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:35:54 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:36:31 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:37:09 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:37:46 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:38:24 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:39:01 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:39:39 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:40:16 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:40:54 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:41:31 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:42:09 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:42:46 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:43:24 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:44:01 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:44:39 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:45:16 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:45:54 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:46:31 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:47:09 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:47:46 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:48:24 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:49:01 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:49:39 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:50:16 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:50:54 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:51:31 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:52:09 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:52:46 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:53:24 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:54:01 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:54:39 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:55:16 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:55:54 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:56:31 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:57:09 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:57:46 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:58:24 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:59:01 [INFO] There are 0/80 players online:
+[m
+2014-08-10 10:59:38 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:00:16 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:00:53 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:01:31 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:02:08 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:02:46 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:03:23 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:04:01 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:04:38 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:05:16 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:05:53 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:06:31 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:07:08 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:07:46 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:08:23 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:09:01 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:09:38 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:10:16 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:10:53 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:11:31 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:12:08 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:12:46 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:13:23 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:14:01 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:14:38 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:15:16 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:15:53 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:16:31 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:17:08 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:17:46 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:18:23 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:19:01 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:19:38 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:20:16 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:20:53 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:21:31 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:22:08 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:22:46 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:23:23 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:24:01 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:24:38 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:25:16 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:25:53 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:26:31 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:27:08 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:27:46 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:28:23 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:29:01 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:29:38 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:30:16 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:30:53 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:31:31 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:32:08 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:32:46 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:33:23 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:34:01 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:34:38 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:35:16 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:35:53 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:36:31 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:37:08 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:37:46 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:38:23 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:39:01 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:39:38 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:40:16 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:40:53 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:41:31 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:42:08 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:42:46 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:43:23 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:44:01 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:44:38 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:45:16 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:45:53 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:46:31 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:47:08 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:47:46 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:48:23 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:49:01 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:49:38 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:50:16 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:50:53 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:51:31 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:52:08 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:52:46 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:53:23 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:54:01 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:54:38 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:55:16 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:55:53 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:56:31 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:57:08 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:57:46 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:58:23 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:59:00 [INFO] There are 0/80 players online:
+[m
+2014-08-10 11:59:38 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:00:15 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:00:53 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:01:30 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:02:08 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:02:45 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:03:23 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:04:00 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:04:38 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:05:15 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:05:53 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:06:30 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:07:08 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:07:45 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:08:23 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:09:00 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:09:38 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:10:15 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:10:53 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:11:30 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:12:08 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:12:45 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:13:23 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:14:00 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:14:38 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:15:15 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:15:53 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:16:30 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:17:08 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:17:45 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:18:23 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:19:00 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:19:38 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:20:15 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:20:53 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:21:30 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:22:08 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:22:45 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:23:23 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:24:00 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:24:38 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:25:15 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:25:53 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:26:30 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:27:08 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:27:45 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:28:23 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:29:00 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:29:38 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:30:15 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:30:53 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:31:30 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:32:08 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:32:45 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:33:23 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:34:00 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:34:38 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:35:15 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:35:53 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:36:30 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:37:08 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:37:45 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:38:23 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:39:00 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:39:38 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:40:15 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:40:53 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:41:30 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:42:08 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:42:45 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:43:23 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:44:00 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:44:38 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:45:15 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:45:53 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:46:30 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:47:08 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:47:45 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:48:23 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:49:00 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:49:38 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:50:15 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:50:53 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:51:30 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:52:08 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:52:45 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:53:23 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:54:00 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:54:38 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:55:15 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:55:53 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:56:30 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:57:08 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:57:45 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:58:22 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:59:00 [INFO] There are 0/80 players online:
+[m
+2014-08-10 12:59:37 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:00:15 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:00:52 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:01:30 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:02:07 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:02:45 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:03:22 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:04:00 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:04:37 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:05:15 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:05:52 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:06:30 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:07:07 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:07:45 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:08:22 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:09:00 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:09:37 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:10:15 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:10:52 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:11:30 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:12:07 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:12:45 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:13:22 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:14:00 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:14:37 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:15:15 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:15:52 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:16:30 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:17:07 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:17:45 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:18:22 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:19:00 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:19:37 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:20:15 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:20:52 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:21:30 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:22:07 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:22:45 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:23:22 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:24:00 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:24:37 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:25:15 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:25:52 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:26:30 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:27:07 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:27:45 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:28:22 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:29:00 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:29:37 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:30:15 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:30:52 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:31:30 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:32:07 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:32:45 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:33:22 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:34:00 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:34:37 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:35:15 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:35:52 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:36:30 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:37:07 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:37:45 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:38:22 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:39:00 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:39:37 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:40:15 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:40:52 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:41:30 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:42:07 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:42:45 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:43:22 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:44:00 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:44:37 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:45:15 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:45:52 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:46:30 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:47:07 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:47:45 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:48:22 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:49:00 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:49:37 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:50:15 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:50:52 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:51:30 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:52:07 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:52:45 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:53:22 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:54:00 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:54:37 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:55:15 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:55:52 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:56:30 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:57:07 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:57:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:58:22 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:58:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 13:59:37 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:00:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:00:52 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:01:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:02:07 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:02:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:03:22 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:03:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:04:37 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:05:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:05:52 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:06:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:07:07 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:07:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:08:22 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:08:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:09:37 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:10:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:10:52 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:11:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:12:07 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:12:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:13:22 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:13:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:14:37 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:15:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:15:52 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:16:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:17:07 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:17:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:18:22 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:18:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:19:37 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:20:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:20:52 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:21:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:22:07 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:22:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:23:22 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:23:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:24:37 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:25:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:25:52 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:26:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:27:07 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:27:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:28:22 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:28:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:29:37 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:30:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:30:52 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:31:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:32:07 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:32:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:33:22 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:33:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:34:37 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:35:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:35:52 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:36:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:37:07 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:37:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:38:22 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:38:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:39:37 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:40:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:40:52 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:41:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:42:07 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:42:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:43:22 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:43:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:44:37 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:45:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:45:52 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:46:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:47:07 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:47:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:48:22 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:48:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:49:37 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:50:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:50:52 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:51:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:52:07 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:52:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:53:22 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:53:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:54:37 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:55:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:55:52 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:56:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:57:07 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:57:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:58:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:58:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 14:59:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:00:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:00:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:01:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:02:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:02:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:03:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:03:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:04:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:05:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:05:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:06:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:07:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:07:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:08:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:08:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:09:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:10:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:10:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:11:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:12:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:12:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:13:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:13:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:14:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:15:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:15:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:16:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:17:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:17:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:18:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:18:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:19:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:20:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:20:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:21:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:22:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:22:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:23:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:23:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:24:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:25:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:25:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:26:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:27:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:27:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:28:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:28:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:29:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:30:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:30:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:31:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:32:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:32:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:33:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:33:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:34:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:35:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:35:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:36:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:37:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:37:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:38:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:38:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:39:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:40:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:40:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:41:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:42:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:42:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:43:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:43:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:44:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:45:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:45:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:46:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:47:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:47:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:48:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:48:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:49:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:50:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:50:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:51:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:52:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:52:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:53:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:53:59 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:54:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:55:14 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:55:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:56:29 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:57:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:57:44 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:58:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:58:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 15:59:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:00:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:00:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:01:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:02:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:02:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:03:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:03:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:04:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:05:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:05:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:06:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:07:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:07:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:08:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:08:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:09:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:10:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:10:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:11:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:12:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:12:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:13:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:13:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:14:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:15:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:15:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:16:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:17:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:17:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:18:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:18:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:19:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:20:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:20:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:21:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:22:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:22:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:23:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:23:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:24:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:25:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:25:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:26:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:27:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:27:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:28:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:28:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:29:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:30:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:30:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:31:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:32:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:32:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:33:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:33:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:34:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:35:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:35:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:36:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:37:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:37:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:38:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:38:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:39:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:40:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:40:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:41:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:42:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:42:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:43:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:43:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:44:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:45:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:45:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:46:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:47:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:47:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:48:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:48:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:49:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:50:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:50:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:51:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:52:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:52:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:53:21 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:53:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:54:36 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:55:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:55:51 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:56:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:57:06 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:57:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:58:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:58:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 16:59:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:00:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:00:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:01:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:02:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:02:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:03:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:03:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:04:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:05:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:05:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:06:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:07:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:07:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:08:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:08:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:09:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:10:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:10:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:11:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:12:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:12:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:13:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:13:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:14:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:15:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:15:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:16:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:17:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:17:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:18:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:18:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:19:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:20:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:20:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:21:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:22:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:22:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:23:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:23:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:24:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:25:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:25:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:26:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:27:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:27:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:28:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:28:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:29:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:30:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:30:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:31:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:32:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:32:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:33:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:33:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:34:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:35:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:35:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:36:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:37:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:37:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:38:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:38:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:39:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:40:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:40:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:41:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:42:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:42:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:43:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:43:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:44:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:45:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:45:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:46:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:47:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:47:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:48:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:48:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:49:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:50:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:50:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:51:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:52:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:52:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:53:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:53:58 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:54:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:55:13 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:55:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:56:28 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:57:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:57:43 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:58:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:58:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 17:59:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:00:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:00:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:01:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:02:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:02:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:03:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:03:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:04:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:05:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:05:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:06:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:07:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:07:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:08:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:08:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:09:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:10:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:10:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:11:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:12:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:12:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:13:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:13:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:14:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:15:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:15:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:16:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:17:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:17:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:18:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:18:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:19:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:20:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:20:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:21:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:22:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:22:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:23:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:23:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:24:35 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:25:12 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:25:50 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:26:27 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:27:05 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:27:42 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:28:20 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:28:57 [INFO] There are 0/80 players online:
+[m
+2014-08-10 18:29:35 [INFO] There are 0/80 players online:
+[m
+2014-08-19 18:19:00 [INFO] Starting minecraft server version 1.6.4
+2014-08-19 18:19:00 [INFO] Loading properties
+2014-08-19 18:19:00 [INFO] Default game type: CREATIVE
+2014-08-19 18:19:00 [INFO] Generating keypair
+2014-08-19 18:19:02 [INFO] Starting Minecraft server on 91.236.254.75:25845
+2014-08-19 18:19:03 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R2.0-b2918jnks (MC: 1.6.4) (Implementing API version 1.6.4-R2.0)
+2014-08-19 18:19:04 [INFO] Preparing level "hub"
+2014-08-19 18:19:04 [INFO] Preparing start region for level 0 (Seed: -5032577977843402752)
+2014-08-19 18:19:05 [INFO] Preparing spawn area: 27%
+2014-08-19 18:19:06 [INFO] Preparing start region for level 1 (Seed: -5032577977843402752)
+2014-08-19 18:19:07 [INFO] Preparing spawn area: 73%
+2014-08-19 18:19:08 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-08-19 18:19:08 [INFO] Done (4.085s)! For help, type "help" or "?"
+2014-08-19 18:19:42 [INFO] There are 0/80 players online:
+[m
+2014-08-19 18:20:15 [INFO] There are 0/80 players online:
+[m
+2014-08-19 18:20:49 [INFO] There are 0/80 players online:
+[m
+2014-08-19 18:21:23 [INFO] There are 0/80 players online:
+[m
+2014-08-19 18:21:56 [INFO] There are 0/80 players online:
+[m
+2014-08-19 18:22:30 [INFO] There are 0/80 players online:
+[m
+2014-08-19 18:23:04 [INFO] There are 0/80 players online:
+[m
+2014-08-19 18:23:37 [INFO] There are 0/80 players online:
+[m
+2014-08-19 18:24:11 [INFO] There are 0/80 players online:
+[m
+2014-08-19 18:24:45 [INFO] There are 0/80 players online:
+[m
+2014-08-19 18:25:18 [INFO] There are 0/80 players online:
+[m
+2014-08-19 18:25:52 [INFO] There are 0/80 players online:
+[m
+2014-08-19 18:26:26 [INFO] There are 0/80 players online:
+[m
+2014-08-19 18:26:59 [INFO] There are 0/80 players online:
+[m
+2014-08-19 18:27:33 [INFO] There are 0/80 players online:
+[m
+2014-08-19 18:28:07 [INFO] There are 0/80 players online:
+[m
+2014-08-19 18:28:40 [INFO] There are 0/80 players online:
+[m
+2014-08-19 18:29:14 [INFO] There are 0/80 players online:
+[m
+2014-08-19 18:29:48 [INFO] There are 0/80 players online:
+[m
+2014-08-19 18:30:21 [INFO] There are 0/80 players online:
+[m
+2014-08-19 18:30:55 [INFO] There are 0/80 players online:
+[m
+2014-08-19 18:31:29 [INFO] There are 0/80 players online:
+[m
+2014-08-19 18:32:02 [INFO] There are 0/80 players online:
+[m
+2014-08-19 18:32:36 [INFO] There are 0/80 players online:
+[m
+2014-08-19 18:33:10 [INFO] There are 0/80 players online:
+[m
+2014-08-19 18:33:43 [INFO] There are 0/80 players online:
+[m
+2014-08-19 18:34:17 [INFO] There are 0/80 players online:
+[m
+2014-08-19 18:34:35 [INFO] CONSOLE: Forcing save..[m
+2014-08-19 18:34:35 [INFO] CONSOLE: Save complete.[m
+2014-08-19 18:34:35 [INFO] CONSOLE: Stopping the server..[m
+2014-08-19 18:34:35 [INFO] Stopping server
+2014-08-19 18:34:35 [INFO] Saving players
+2014-08-19 18:34:35 [WARNING] DSCT: Socket closed
+2014-08-19 18:34:35 [INFO] Closing listening thread
+2014-08-19 18:34:35 [INFO] Saving worlds
+2014-08-19 18:34:35 [INFO] Saving chunks for level 'hub'/Overworld
+2014-08-19 18:34:35 [INFO] Saving chunks for level 'hub_the_end'/The End
+2014-08-19 18:34:35 [INFO] Stopping server
+2014-08-19 18:34:35 [INFO] Saving players
+2014-08-19 18:34:35 [INFO] Saving worlds
+2014-08-19 18:36:00 [INFO] Starting minecraft server version 1.6.4
+2014-08-19 18:36:00 [INFO] Loading properties
+2014-08-19 18:36:00 [INFO] Default game type: CREATIVE
+2014-08-19 18:36:00 [INFO] Generating keypair
+2014-08-19 18:36:00 [INFO] Starting Minecraft server on 91.236.254.75:25845
+2014-08-19 18:36:00 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R2.0-b2918jnks (MC: 1.6.4) (Implementing API version 1.6.4-R2.0)
+2014-08-19 18:36:00 [INFO] [WorldEdit] Loading WorldEdit v5.6
+2014-08-19 18:36:00 [INFO] Preparing level "hub"
+2014-08-19 18:36:00 [INFO] Preparing start region for level 0 (Seed: -5032577977843402752)
+2014-08-19 18:36:01 [INFO] Preparing start region for level 1 (Seed: -5032577977843402752)
+2014-08-19 18:36:01 [INFO] [WorldEdit] Enabling WorldEdit v5.6
+2014-08-19 18:36:01 [INFO] [WorldEdit] Default configuration file written: config.yml
+2014-08-19 18:36:01 [INFO] WEPIF: Updated config file
+2014-08-19 18:36:01 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-08-19 18:36:01 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-08-19 18:36:01 [INFO] Done (0.744s)! For help, type "help" or "?"
+2014-08-19 18:36:04 [INFO] CONSOLE: Forcing save..[m
+2014-08-19 18:36:04 [INFO] CONSOLE: Save complete.[m
+2014-08-19 18:36:04 [INFO] CONSOLE: Stopping the server..[m
+2014-08-19 18:36:04 [INFO] Stopping server
+2014-08-19 18:36:04 [INFO] [WorldEdit] Disabling WorldEdit v5.6
+2014-08-19 18:36:04 [INFO] Saving players
+2014-08-19 18:36:04 [INFO] Saving worlds
+2014-08-19 18:36:04 [WARNING] DSCT: Socket closed
+2014-08-19 18:36:04 [INFO] Closing listening thread
+2014-08-19 18:36:04 [INFO] Saving chunks for level 'hub'/Overworld
+2014-08-19 18:36:05 [INFO] Saving chunks for level 'hub_the_end'/The End
